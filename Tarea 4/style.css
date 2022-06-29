@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    border-radius: 10px;
+    width: 15rem;
+    margin: auto;
+    border-style: solid;
+}
+li{
+    list-style: none;
+}
+#elemento-1{
+    background-color: #ff0000;
+    font-size: 2rem;
+}
